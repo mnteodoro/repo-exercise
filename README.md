@@ -1,2 +1,2 @@
-another minor update! 
- repo-exercise
+this is to test the git diff command
+
